@@ -16,7 +16,7 @@
             padding: 6px 8px;
             font: 14px/16px Arial, Helvetica, sans-serif;
             background-color:#f8f8f8 !important;
-            color: #04040b !important;
+            color: #444444 !important;
             box-shadow: 0 0 15px rgba(0,0,0,0.2);
             border-radius: 5px;
         }
@@ -63,7 +63,7 @@
         }
         }
         .fa, .leaflet-container, a {
-            color: #04040b !important;
+            color: #444444 !important;
         }
         .leaflet-control-zoom-in, .leaflet-control-zoom-out,
         .leaflet-control-locate a,
@@ -72,14 +72,14 @@
          .leaflet-control-measure {
             background-color: #f8f8f8 !important;
             border-radius: 0px !important;
-            color: #04040b !important;
+            color: #444444 !important;
         }
         .abstract {
             font: bold 18px 'Lucida Console', Monaco, monospace;
             text-indent: 1px;
             background-color: #f8f8f8 !important;
             width: 30px !important;
-            color: #04040b !important;
+            color: #444444 !important;
             height: 30px !important;
             text-align: center !important;
             line-height: 30px !important;
@@ -88,7 +88,7 @@
             padding: 6px 8px;
             font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
             background-color:#f8f8f8 !important;
-            color: #04040b !important;
+            color: #444444 !important;
             box-shadow: 0 0 15px rgba(0,0,0,0.2);
             border-radius: 5px;
             max-width: 40%;
@@ -149,7 +149,7 @@
             height: 30px !important;
             border-radius: 0px !important;
             background-color: #f8f8f8 !important;
-            color: #04040b !important;
+            color: #444444 !important;
             font-size: 13px;
             line-height: 30px;
             text-align: center;
@@ -161,7 +161,7 @@
 			flex-direction: column;
 			align-items: flex-end;
             background-color: #f8f8f8 !important;
-            color: #04040b !important;
+            color: #444444 !important;
 
 		}
         .leaflet-control-layers-expanded {
@@ -176,7 +176,7 @@
         .leaflet-control-layers-expanded .leaflet-control-layers-toggle::after {
             content: '»';
             font-size: x-large;
-            color: #04040b !important;
+            color: #444444 !important;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -195,10 +195,7 @@
             justify-content: center;
             align-items: center;
         }
-        .leaflet-control-layers-expanded .leaflet-control-layers-toggle {
-            display: none;
-        }
-        .css_CentreodscentroidesRDC_2 {
+        .css_Province_nouvelle_26_1 {
             text-shadow: -2px -2px 0 #fafafa,
                 -2px -1px 0 #fafafa,
                 -2px 0px 0 #fafafa,
